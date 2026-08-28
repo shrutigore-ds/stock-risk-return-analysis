@@ -85,7 +85,8 @@ stock-risk-return-analysis/
 ├── SQL/
 │   └── Stock_Risk_Return_Analysis.sql
 │
-├── PowerBI/
-│   └── Dashboard975.png
+├──├── PowerBI/
+│   ├── Dashboard975.png
+│   └── Stock_Risk_Return_Analysis.pbix
 │
 └── README.md

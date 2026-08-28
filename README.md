@@ -51,7 +51,27 @@ The analysis focuses on:
 
 ---
 
-## 📂 Project Structure
+---
+
+## 📊 Power BI Dashboard
+
+The Power BI dashboard provides an interactive comparison of the historical risk and return characteristics of Amazon, Apple, Facebook, Google, and Microsoft.
+
+### Dashboard Preview
+
+![Stock Risk & Return Dashboard](PowerBI/Dashboard975.png)
+
+### Key Metrics
+
+- Average Annualized Return
+- Annualized Volatility
+- Sharpe Ratio
+- Maximum Drawdown
+- Average Daily Return
+
+---
+
+## 📁 Project Structure
 
 ```text
 stock-risk-return-analysis/

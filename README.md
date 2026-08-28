@@ -1,22 +1,26 @@
-# Stock Risk & Return Analysis
+# 📊 Stock Risk & Return Analysis
 
-## 📊 Project Overview
+An end-to-end financial data analytics project analyzing the historical risk and return characteristics of five major technology companies using **Python, SQL, Excel, and Power BI**.
 
-This project performs an end-to-end analysis of the historical risk and return characteristics of five major technology companies:
+---
+
+## 📌 Project Overview
+
+This project evaluates and compares the historical stock performance of:
 
 - Amazon
 - Apple
-- Facebook
+- Facebook (Meta)
 - Google
 - Microsoft
 
-The analysis combines **Python, SQL, Excel, and Power BI** to clean, analyze, visualize, and compare stock performance.
+The analysis combines data preparation, financial calculations, SQL analysis, Python-based exploratory analysis, and an interactive Power BI dashboard to understand the relationship between **risk, return, and risk-adjusted performance**.
 
 ---
 
 ## 🎯 Business Objective
 
-The objective of this project is to evaluate and compare the historical performance and risk characteristics of the selected companies using key financial metrics.
+The objective is to compare the historical performance and risk characteristics of the selected companies using key financial metrics.
 
 The analysis focuses on:
 
@@ -36,7 +40,7 @@ The analysis focuses on:
 
 | Tool | Purpose |
 |---|---|
-| Python | Data cleaning, analysis and financial calculations |
+| Python | Data cleaning, analysis, and financial calculations |
 | Pandas | Data manipulation and analysis |
 | NumPy | Numerical calculations |
 | Matplotlib | Data visualization |
@@ -47,7 +51,7 @@ The analysis focuses on:
 
 ---
 
-## 📁 Project Structure
+## 📂 Project Structure
 
 ```text
 stock-risk-return-analysis/
@@ -62,6 +66,6 @@ stock-risk-return-analysis/
 │   └── Stock_Risk_Return_Analysis.sql
 │
 ├── PowerBI/
-│   └── Dashboard.png
+│   └── Dashboard975.png
 │
 └── README.md

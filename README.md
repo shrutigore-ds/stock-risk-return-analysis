@@ -2,7 +2,6 @@
 
 An end-to-end financial data analytics project analyzing the historical risk and return characteristics of five major technology companies using **Python, SQL, Excel, and Power BI**.
 
----
 
 ## 📌 Project Overview
 
@@ -16,7 +15,6 @@ This project evaluates and compares the historical stock performance of:
 
 The analysis combines data preparation, financial calculations, SQL analysis, Python-based exploratory analysis, and an interactive Power BI dashboard to understand the relationship between **risk, return, and risk-adjusted performance**.
 
----
 
 ## 🎯 Business Objective
 
@@ -34,12 +32,9 @@ The analysis focuses on:
 
 > **Note:** The results describe historical performance in the supplied dataset and are not investment advice.
 
----
-
-## 🛠️ Tools & Technologies
+##🛠️ Tools & Technologies
 
 | Tool | Purpose |
-|---|---|
 | Python | Data cleaning, analysis, and financial calculations |
 | Pandas | Data manipulation and analysis |
 | NumPy | Numerical calculations |
@@ -49,9 +44,6 @@ The analysis focuses on:
 | Power BI | Interactive dashboard and visualization |
 | Jupyter Notebook / Google Colab | Python analysis environment |
 
----
-
----
 
 ## 📊 Power BI Dashboard
 
@@ -69,11 +61,10 @@ The Power BI dashboard provides an interactive comparison of the historical risk
 - Maximum Drawdown
 - Average Daily Return
 
----
 
 ## 📁 Project Structure
 
-```text
+text
 stock-risk-return-analysis/
 │
 ├── Data/
@@ -90,3 +81,16 @@ stock-risk-return-analysis/
 │   └── Stock_Risk_Return_Analysis.pbix
 │
 └── README.md
+
+
+## 📊 Key Findings
+
+The analysis of the five companies revealed the following historical patterns:
+
+- **Amazon** recorded the highest annualized return among the selected companies, while also exhibiting relatively high volatility.
+- **Microsoft** delivered strong returns with comparatively lower volatility than Amazon and Facebook.
+- **Facebook** showed the highest annualized volatility and the deepest maximum drawdown, indicating relatively higher historical risk.
+- **Amazon** achieved the highest Sharpe Ratio, suggesting the strongest historical risk-adjusted performance among the selected companies.
+- **Google** demonstrated relatively lower volatility while maintaining positive annualized returns.
+- **Amazon** also recorded the highest average daily return in the dataset.
+- The comparison shows that higher returns were generally associated with higher levels of risk, highlighting the return-risk trade-off in technology stocks.

@@ -35,7 +35,7 @@ Note: The results describe historical performance in the supplied dataset and ar
 ## 🛠️ Tools & Technologies
 
 | Tool | Purpose |
-
+| --- | --- |
 | Python | Data cleaning, analysis, and financial calculations |
 | Pandas | Data manipulation and analysis |
 | NumPy | Numerical calculations |
@@ -44,6 +44,7 @@ Note: The results describe historical performance in the supplied dataset and ar
 | Excel | Data preparation and validation |
 | Power BI | Interactive dashboard and visualization |
 | Jupyter Notebook / Google Colab | Python analysis environment |
+
 
 ## 📊 Power BI Dashboard
 
@@ -98,7 +99,7 @@ The analysis of the five companies revealed the following historical patterns:
 ## 📊 Final Company Comparison
 
 | Company | Average Daily Return | Annualized Return | Annualized Volatility | Sharpe Ratio | Maximum Drawdown |
-|---|---:|---:|---:|---:|---:|
+| --- | ---: | ---: | ---: | ---: | ---: |
 | Amazon | 0.154% | 38.81% | 30.12% | 1.29 | -34.10% |
 | Microsoft | 0.135% | 33.95% | 26.97% | 1.26 | -28.04% |
 | Apple | 0.129% | 32.60% | 29.04% | 1.12 | -38.52% |

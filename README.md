@@ -30,11 +30,12 @@ The analysis focuses on:
 - Trading Volume
 - Closing Prices
 
-> **Note:** The results describe historical performance in the supplied dataset and are not investment advice.
+Note: The results describe historical performance in the supplied dataset and are not investment advice.
 
-##🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 | Tool | Purpose |
+
 | Python | Data cleaning, analysis, and financial calculations |
 | Pandas | Data manipulation and analysis |
 | NumPy | Numerical calculations |
@@ -43,7 +44,6 @@ The analysis focuses on:
 | Excel | Data preparation and validation |
 | Power BI | Interactive dashboard and visualization |
 | Jupyter Notebook / Google Colab | Python analysis environment |
-
 
 ## 📊 Power BI Dashboard
 
@@ -64,7 +64,7 @@ The Power BI dashboard provides an interactive comparison of the historical risk
 
 ## 📁 Project Structure
 
-text
+```text
 stock-risk-return-analysis/
 │
 ├── Data/
@@ -76,7 +76,7 @@ stock-risk-return-analysis/
 ├── SQL/
 │   └── Stock_Risk_Return_Analysis.sql
 │
-├──├── PowerBI/
+├── PowerBI/
 │   ├── Dashboard975.png
 │   └── Stock_Risk_Return_Analysis.pbix
 │
@@ -98,9 +98,9 @@ The analysis of the five companies revealed the following historical patterns:
 ## 📊 Final Company Comparison
 
 | Company | Average Daily Return | Annualized Return | Annualized Volatility | Sharpe Ratio | Maximum Drawdown |
-
+|---|---:|---:|---:|---:|---:|
 | Amazon | 0.154% | 38.81% | 30.12% | 1.29 | -34.10% |
-| Microsoft| 0.135% | 33.95% | 26.97% | 1.26 | -28.04% |
-| Apple| 0.129% | 32.60% | 29.04% | 1.12 | -38.52% |
-| **Google| 0.112% | 28.17% | 26.50% | 1.06 | -30.79% |
-| Facebook| 0.104% | 26.13% | 31.53% | 0.83 | -42.96% |
+| Microsoft | 0.135% | 33.95% | 26.97% | 1.26 | -28.04% |
+| Apple | 0.129% | 32.60% | 29.04% | 1.12 | -38.52% |
+| Google | 0.112% | 28.17% | 26.50% | 1.06 | -30.79% |
+| Facebook | 0.104% | 26.13% | 31.53% | 0.83 | -42.96% |

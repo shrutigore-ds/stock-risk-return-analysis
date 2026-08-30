@@ -83,7 +83,6 @@ stock-risk-return-analysis/
 │
 └── README.md
 
-
 ## 📊 Key Findings
 
 The analysis of the five companies revealed the following historical patterns:

@@ -94,3 +94,13 @@ The analysis of the five companies revealed the following historical patterns:
 - **Google** demonstrated relatively lower volatility while maintaining positive annualized returns.
 - **Amazon** also recorded the highest average daily return in the dataset.
 - The comparison shows that higher returns were generally associated with higher levels of risk, highlighting the return-risk trade-off in technology stocks.
+
+## 📊 Final Company Comparison
+
+| Company | Average Daily Return | Annualized Return | Annualized Volatility | Sharpe Ratio | Maximum Drawdown |
+
+| Amazon | 0.154% | 38.81% | 30.12% | 1.29 | -34.10% |
+| Microsoft| 0.135% | 33.95% | 26.97% | 1.26 | -28.04% |
+| Apple| 0.129% | 32.60% | 29.04% | 1.12 | -38.52% |
+| **Google| 0.112% | 28.17% | 26.50% | 1.06 | -30.79% |
+| Facebook| 0.104% | 26.13% | 31.53% | 0.83 | -42.96% |
